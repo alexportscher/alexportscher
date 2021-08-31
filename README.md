@@ -27,6 +27,10 @@
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" target="_blank"></a>
 </div>
 
+
+
+
 <div>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexportscher&layout=compact)](https://github.com/anuraghazra/github-readme-stats">
+   <p>📋 - Here is a card referring to the most used language in my repositories</p>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexportscher&layout=compact&theme=dark">
 </div>
