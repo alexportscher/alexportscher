@@ -30,7 +30,6 @@
 
 
 
-<div>
-   <p>🐍 - Congratulations on reading this far, now keep this cool snake game</p>
-</div>
-![Snake animation](https://github.com/alexportscher/alexportscher/blob/output/github-contribution-grid-snake.svg)
+<p>🐍 - Congratulations on reading this far, now keep this cool snake game</p>
+![Snake animation](https://github.com/rafaballerini2/rafaballerini2/blob/output/github-contribution-grid-snake.svg)
+
