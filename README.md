@@ -1,8 +1,20 @@
 ### Hello, i'm Álex! 👋
- <div>
-  <a href="https://github.com/alexportscher">
-  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexportscher&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+ 
+  <div>
+ <p>
+  😁 Hello, my name is Álex Fernando Rocha de Almeida, I am 15 years old and my personal goals are: <br>
+  
+  💻 - Become a full-stack developer <br>
+  🎨 - Become a UI/UX Designer <br>
+  🗣️ - Get fluent in 3 languages: <strong>English, French and German.</strong> <br> <br>
+  
+  👨‍🎓 - I intend to start with the client-side (front-end), as I believe it is a great initiative to become a full-stack developer and because of this I am studying the        following languages and frameworks:
+  
+  
+ </p>
+
+  </div>
+ 
   <div> 
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" target="_blank"></a>
