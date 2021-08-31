@@ -2,7 +2,7 @@
  
   <div>
  <p>
-  😁 Hello, my name is Álex Fernando Rocha de Almeida, I am 15 years old and my personal goals are: <br>
+  😁 Hello, my name is Álex Fernando Rocha de Almeida, I am 15 years old and my personal goals 3 years from now are: <br>
   
   💻 - Become a full-stack developer <br>
   🎨 - Become a UI/UX Designer <br>
