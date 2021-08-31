@@ -26,3 +26,7 @@
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" target="_blank"></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" target="_blank"></a>
 </div>
+
+<div>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexportscher&layout=compact)](https://github.com/anuraghazra/github-readme-stats">
+</div>
