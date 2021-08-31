@@ -31,6 +31,6 @@
 
 
 <div>
-   <p>📋 - Here is a card referring to the most used language in my repositories</p>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexportscher&layout=compact&theme=dark">
+   <p>🐍 - Congratulations on reading this far, now keep this cool snake game</p>
+   ![Snake animation](https://github.com/alexportscher/alexportscher/blob/output/github-contribution-grid-snake.svg)
 </div>
