@@ -2,7 +2,7 @@
  
   <div>
  <p>
-  😁 Hello, my name is Álex Fernando Portscher, I am ** years old and my personal goals 3 years from now are: <br>
+  😁 Hello, my name is Álex Fernando, I am ** years old and my personal goals 3 years from now are: <br>
   
   💻 - Become a full-stack developer <br>
   🎨 - Become a UI/UX Designer <br>
